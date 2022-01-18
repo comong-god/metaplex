@@ -16,7 +16,7 @@ Metaplex is comprised of two core components: an on-chain program, and a self-ho
 
 You can check out our docs at https://docs.metaplex.com/
 
-## Installing
+## Installing.
 
 Clone the repo, and run `yarn start` to deploy.
 
